@@ -3,16 +3,23 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelfiare/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joelfiare/)
 
 <h3 align="left">Languages and Tools:</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres)]()
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,figma)]()
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap)]()
+
+<!--
 <table>
 	<tr>
-		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td>
+		<td><img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Java-Dark.svg" alt="Java" title="Java"/></td>
 		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></td>
 		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></td>
-    <td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
+		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
 		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></td>
 		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></td>
 		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></td>
@@ -46,6 +53,6 @@
 		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></td>
 	</tr>
 </table>
-
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelfiare&show_icons=true&locale=en&layout=compact" alt="joelfiare" />
