@@ -1,23 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">A passionate Backend developer from Argentine</h3>
 
-<h3 align="left">Connect with me:</h3>
-
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelfiare/)
 
-<!--
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
-  <a>
-	<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres" />
-	<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
-	<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap" />
-  </a>
-</p>
--->
-### Programming Languages and Technologies
-
+## Programming Languages and Technologies
 #### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,22 +24,20 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Development and Management
-
+## Development and Management
 #### IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-#### Version Control and Collaboration
+### Version Control and Collaboration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
-### Infrastructure and Deployment
-
+## Infrastructure and Deployment
 #### Servers and Tools
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
@@ -60,8 +45,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
 
-### Testing and Security
-
+## Testing and Security
 #### Testing and Security
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -113,4 +97,16 @@
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelfiare&show_icons=true&locale=en&layout=compact" alt="joelfiare" />
+-->
+
+<!--
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+  <a>
+	<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres" />
+	<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap" />
+  </a>
+</p>
 -->
