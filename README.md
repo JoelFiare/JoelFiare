@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelfiare/)
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -14,7 +15,7 @@
 	<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap" />
   </a>
 </p>
-
+-->
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
